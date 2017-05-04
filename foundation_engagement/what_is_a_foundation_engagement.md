@@ -1,6 +1,6 @@
 # What is a foundation engagement?
 
-A foundation engagement is a 6-week project to better understand and define an agency client's problem space. The intent of the engagment is for 18F to be in a better position to advise the client on how to solve their problem. 
+A foundation engagement is a short (6-10 week) project to better understand and define an agency client's problem space. The intent of the engagment is for 18F to be in a better position to advise the client on how to solve their problem. 
 
 These short-term efforts are run by a small, two-person team of strategists. The inter-agency agreement uses a GSA-approved [SOW template](https://docs.google.com/document/d/1PeA7LChLuY8MmlWfSyw6sl1aVlITtS9GI7blrYiDa2g/edit?ts=57ffe7df) to get through the agreements process quickly. 
 
